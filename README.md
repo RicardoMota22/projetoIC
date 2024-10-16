@@ -22,3 +22,9 @@ wrHwrhwRBETt\
 sdsftfdt\
 rcyhwyhfwrhywvrgywrwehyuch\
 
+```mermaid
+
+flowchart LR
+    start --> A["something"]
+    A --> B["super something"]
+    
